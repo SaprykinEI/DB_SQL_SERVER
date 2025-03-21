@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Desktop Computer",
+        "price": 800.0
+    },
+    {
+        "id": 2,
+        "name": "LapTop",
+        "price": 1200.0
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "price": 200.0
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 350.0
+    },
+    {
+        "id": 5,
+        "name": "Printer",
+        "price": 150.0
+    }
+]
